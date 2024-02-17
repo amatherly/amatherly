@@ -1,6 +1,6 @@
 ### Welcome to My GitHub! 👋
 
-I'm Ashleigh (Brodi), a Computer Science graduate from the University of Washington with a passion for developing innovative software solutions.
+I'm Ashleigh (Brodi), a Computer Science graduate from the University of Washington with a passion for problem-solving and creative design solutions.
 
 - 🔭 Currently, I'm contributing to the development of a responsive e-commerce platform, focusing on front-end development using React and JavaScript.
 - 🔭 Soon, I will be researching Edge Computing as an Undergraduate Reasearcher.
