@@ -5,7 +5,7 @@ I'm Ashleigh (Brodi), a Computer Science graduate from the University of Washing
 - 🔭 Currently, I'm contributing to the development of a responsive e-commerce platform, focusing on front-end development using React and JavaScript.
 - 🔭 Soon, I will be researching Edge Computing as an Undergraduate Reasearcher.
 - 🌱 I’m advancing my skills in front-end web technologies with React and honing my backend expertise with Spring Boot and SQL.
-- 👯 Open for collaboration on educational tech projects and environmental tech initiatives.
+- 👯 Open for collaboration.
 - 💬 Always ready to discuss anything related to C#, Unity, or other game engines!
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/ashleighmath/)
 - 😄 Pronouns: She/Her
