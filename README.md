@@ -38,7 +38,7 @@ Feel free to browse through my repositories and let's get in touch to build some
   ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 - **Databases:**
-- ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
+  ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
