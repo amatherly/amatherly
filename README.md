@@ -3,7 +3,7 @@
 I'm Ashleigh (Brodi), a Computer Science graduate from the University of Washington with a passion for problem-solving and creative design solutions.
 - 👻 Incoming Software Engineer at Snap Inc!
 
-- 🔭 Currently, I'm contributing to the development of a responsive e-commerce platform, focusing on front-end development using React and JavaScript.
+- 🔭 I am currently a SWE Intern for a fashion reselling app, building a data analytics dashboard for their clients.
 - 💬 Always ready to discuss anything related to C#, Unity, or other game engines!
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/ashleighmath/)
 - 😄 Pronouns: She/Her
